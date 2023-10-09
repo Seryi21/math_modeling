@@ -14,4 +14,4 @@ print(type(True))
 
 print(type(None))
 
-print(print(1))
+print(print(1)) #None
